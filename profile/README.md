@@ -13,7 +13,7 @@ Meet the Stellify team members who are working hard to make this project a succe
 - **[Mirzoev Parviz](https://github.com/mirzoev-parviz)** - [Captain | Back-end Developer | Graphic Designer]
 - **[Odinazoda Subhoniddin](https://github.com/dev-tokumei)** - [Front-end Developer | Graphic Designer]
 - **[Usmonzoda Somon](https://github.com/usmonzodasomon)** - [Back-end Developer]
-- **[Gadeov Ehson](https://github.com/icoder-new)** - [Back-end Developer | data analyst]
+- **[Gadoev Ehson](https://github.com/icoder-new)** - [Back-end Developer | data analyst]
 
 ## Acknowledgments
 
